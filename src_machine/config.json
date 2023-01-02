@@ -1,0 +1,23 @@
+{
+    "puppeteer": {
+        "headless": false,
+        "cookies": [
+            {
+                "url": "http://hue.psd.gz.cvte.cn/",
+                "name": "csrftoken",
+                "value": "xWCtY4beicG1vjhBYOQKO1GpejAjcZGY"
+            },
+            {
+                "url": "http://hue.psd.gz.cvte.cn/",
+                "name": "sessionid",
+                "value": "ua6y697j7m1m3xq4opjtcf0z6l1dsw7e"
+            },
+            {
+                "url": "http://hue.psd.gz.cvte.cn/",
+                "name": "_ga",
+                "value": "GA1.2.1154038086.1659528898"
+            }
+        ]
+    },
+    "welcomePage": "http://hue.psd.gz.cvte.cn/"
+}

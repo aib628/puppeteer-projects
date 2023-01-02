@@ -1,0 +1,14 @@
+{
+    "puppeteer": {
+        "cookies": [],
+        "logger": true,
+        "headless": false,
+        "use_ajax": false
+    },
+    "emailer": {
+        "account": "vv@qq.com",
+        "password": "your_pass",
+        "receivers": "receiver@qq.com"
+    },
+    "welcomePage": "https://www.baidu.com"
+}

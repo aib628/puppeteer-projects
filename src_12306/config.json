@@ -1,0 +1,14 @@
+{
+    "puppeteer": {
+        "headless": false,
+        "cookies": {
+            "url": "https://kyfw.12306.cn/",
+            "namevalues": "JSESSIONID=54D934D6C2D03E22A17837C6F925622A; tk=RYt7rbebKJMxoSLzI9Jyq5anSOjTP1xJfsa1a0; _jc_save_wfdc_flag=dc; _jc_save_fromStation=%u5E7F%u5DDE%2CGZQ; _jc_save_toStation=%u5B89%u5EB7%2CAKY; guidesStatus=off; highContrastMode=defaltMode; cursorStatus=off; RAIL_EXPIRATION=1672668937036; RAIL_DEVICEID=FiO66RHhN20IZshE4FE22EJEiVehwk-29phFYnqLA0_Woaio7xah3XMN1sCXC5w_b-leIDE0HFb_XnqvhCYYb0GJ-0XCeNML5Z8OA5ocGqgSUbYb21HAnETJ8oSoIr4W3i60BOkj3AiDn1UJI07ET_Ptfd3-dG6w; BIGipServerotn=1859715338.64545.0000; BIGipServerpassport=803733770.50215.0000; route=495c805987d0f5c8c84b14f60212447d; _jc_save_fromDate=2022-12-31; _jc_save_toDate=2022-12-31; fo=0yk0x14sx0seyd2qb_9g2W9Gr2qzsaVvTiQH3K_WiN-EtZijiwrTc_HiGASK36jDEQjJaIRQJVRGyCPwyYG0L2zoXR-kF1TjufXIesZVRAGSuUoYLyQ7_hydkvjtNX1fNhguugUIZYyBuDjlpuo62KhB33ZZtZ8io2shUIzgvb8HokllPW7dk-5O6i8yDl0RORMKT5SAvU-o9zjA; uKey=1b8d8deccb76dd01216ea5d84aa51bb795a0bebb546110250cb024252080ae06"
+        }
+    },
+    "12306": {
+        "username": "account",
+        "password": "password"
+    },
+    "welcomePage": "https://kyfw.12306.cn/otn/resources/login.html"
+}
